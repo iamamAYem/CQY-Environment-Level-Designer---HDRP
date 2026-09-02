@@ -553,7 +553,7 @@
                 "m_Node": {
                     "m_Id": "c9b70cbadee44f818f06b021dbbc7511"
                 },
-                "m_SlotId": 0
+                "m_SlotId": 4
             },
             "m_InputSlot": {
                 "m_Node": {
@@ -2252,8 +2252,8 @@
     "m_ObjectId": "408096ffc4cc466c9eba29676997ccc5",
     "m_Title": "PBR",
     "m_Position": {
-        "x": -1340.66650390625,
-        "y": -62.00008773803711
+        "x": -1340.6666259765625,
+        "y": -61.99995803833008
     }
 }
 
@@ -5416,12 +5416,12 @@
     "m_customAttributes": [],
     "m_Value": {
         "r": 1.0,
-        "g": 1.0,
-        "b": 1.0,
+        "g": 0.0,
+        "b": 0.0,
         "a": 1.0
     },
     "isMainColor": false,
-    "m_ColorMode": 0
+    "m_ColorMode": 1
 }
 
 {
@@ -5430,7 +5430,7 @@
     "m_ObjectId": "ec801687e66347309672d8e34c253bea",
     "m_Title": "Emission",
     "m_Position": {
-        "x": -1462.66650390625,
+        "x": -1462.6666259765625,
         "y": 1047.333251953125
     }
 }
