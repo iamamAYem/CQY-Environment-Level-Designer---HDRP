@@ -1,0 +1,98 @@
+{
+"pack": null,
+"comp_version": 1,
+"copyright": "ScansLibrary Technologies Ltd.",
+"semanticTags":  {
+      "asset_name": "Cliff",
+      "asset_id": "RdmQpp",
+      "asset_type": "Surface",
+      "credits": "4",
+      "tags": [
+        "rock",
+        "cliff",
+        "RdmQpp"
+      ],
+      "categories": [
+        "Cliff",
+        "Rock"
+      ],
+      "texture_name": "M_Cliff_RdmQpp",
+      "flags": "",
+      "dimensions": [
+        {
+          "width": "2m",
+          "lenght": "2m"
+        }
+      ],
+      "tile": "x,y",
+      "max_resolution": "8192x8192",
+      "environment": "pine forest",
+      "location": "Kazdaglari",
+      "colorSpace": "sRGB",
+      "calibration": "ColorChecker Passport",
+      "scanner": "SL-SCN-ELB 500 TTL V2",
+      "textures": {
+        "albedo": [
+          "M_Cliff_RdmQpp_8K_Albedo.jpg",
+          "M_Cliff_RdmQpp_8K_Albedo.tiff",
+          "M_Cliff_RdmQpp_4K_Albedo.jpg",
+          "M_Cliff_RdmQpp_2K_Albedo.jpg",
+          "M_Cliff_RdmQpp_1K_Albedo.jpg"
+        ],
+        "alpha": [
+          ""
+        ],
+        "ao": [
+          "M_Cliff_RdmQpp_8K_AO.jpg",
+          "M_Cliff_RdmQpp_8K_AO.tiff",
+          "M_Cliff_RdmQpp_4K_AO.jpg",
+          "M_Cliff_RdmQpp_2K_AO.jpg",
+          "M_Cliff_RdmQpp_1K_AO.jpg"
+        ],
+        "cavity": [
+          "M_Cliff_RdmQpp_8K_Cavity.jpg",
+          "M_Cliff_RdmQpp_8K_Cavity.tiff",
+          "M_Cliff_RdmQpp_4K_Cavity.jpg",
+          "M_Cliff_RdmQpp_2K_Cavity.jpg",
+          "M_Cliff_RdmQpp_1K_Cavity.jpg"
+        ],
+        "fuzzy": "",
+        "heightmap": [
+          "M_Cliff_RdmQpp_8K_HeightMap.jpg",
+          "M_Cliff_RdmQpp_8K_HeightMap.tiff",
+          "M_Cliff_RdmQpp_4K_HeightMap.jpg",
+          "M_Cliff_RdmQpp_2K_HeightMap.jpg",
+          "M_Cliff_RdmQpp_1K_HeightMap.jpg"
+        ],
+        "heightmap_32bit": [
+          "M_Cliff_RdmQpp_8K_HeightMap_EXR.exr",
+          "M_Cliff_RdmQpp_4K_HeightMap_EXR.exr"
+        ],
+        "metalness": [
+          ""
+        ],
+        "normal": [
+          "M_Cliff_RdmQpp_8K_Normal.jpg",
+          "M_Cliff_RdmQpp_8K_Normal.tiff",
+          "M_Cliff_RdmQpp_4K_Normal.jpg",
+          "M_Cliff_RdmQpp_2K_Normal.jpg",
+          "M_Cliff_RdmQpp_1K_Normal.jpg"
+        ],
+        "roughness": [
+          "M_Cliff_RdmQpp_8K_Roughness.jpg",
+          "M_Cliff_RdmQpp_8K_Roughness.tiff",
+          "M_Cliff_RdmQpp_4K_Roughness.jpg",
+          "M_Cliff_RdmQpp_2K_Roughness.jpg",
+          "M_Cliff_RdmQpp_1K_Roughness.jpg"
+        ],
+        "ss": "",
+        "specular": [
+          "M_Cliff_RdmQpp_8K_Specular.jpg",
+          "M_Cliff_RdmQpp_8K_Specular.tiff",
+          "M_Cliff_RdmQpp_4K_Specular.jpg",
+          "M_Cliff_RdmQpp_2K_Specular.jpg",
+          "M_Cliff_RdmQpp_1K_Specular.jpg"
+        ]
+      }
+    }
+}
