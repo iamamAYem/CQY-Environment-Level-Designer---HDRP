@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a18ae5a380cefaa42984dd62c858aa2b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 20006135
+  packageName: "For Unity\u5730\u5F62 - HDRP\u6F14\u793A\u573A\u666F"
+  packageVersion: 1.0.3
+  assetPath: Assets/TerrainDemoScene_HDRP/Prefabs/Details/Bush_Red.prefab
+  uploadId: 0

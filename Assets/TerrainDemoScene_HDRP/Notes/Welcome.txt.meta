@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 77ed5e720504baf488488bdb8dd3f5d7
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 20006135
+  packageName: "For Unity\u5730\u5F62 - HDRP\u6F14\u793A\u573A\u666F"
+  packageVersion: 1.0.3
+  assetPath: Assets/TerrainDemoScene_HDRP/Notes/Welcome.txt
+  uploadId: 0

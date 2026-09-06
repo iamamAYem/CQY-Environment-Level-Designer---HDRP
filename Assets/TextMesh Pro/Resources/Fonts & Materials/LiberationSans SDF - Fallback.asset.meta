@@ -1,8 +1,16 @@
 fileFormatVersion: 2
 guid: 2e498d1c8094910479dc3e1b768306a4
 timeCreated: 1484171803
-licenseType: Pro
+licenseType: Store
 NativeFormatImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 20006135
+  packageName: "For Unity\u5730\u5F62 - HDRP\u6F14\u793A\u573A\u666F"
+  packageVersion: 1.0.3
+  assetPath: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF -
+    Fallback.asset
+  uploadId: 0

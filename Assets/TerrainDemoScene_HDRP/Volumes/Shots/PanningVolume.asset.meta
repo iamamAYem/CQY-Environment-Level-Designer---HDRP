@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e15c8de483f3b4a8c8c5c955461a37cd
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 20006135
+  packageName: "For Unity\u5730\u5F62 - HDRP\u6F14\u793A\u573A\u666F"
+  packageVersion: 1.0.3
+  assetPath: Assets/TerrainDemoScene_HDRP/Volumes/Shots/PanningVolume.asset
+  uploadId: 0

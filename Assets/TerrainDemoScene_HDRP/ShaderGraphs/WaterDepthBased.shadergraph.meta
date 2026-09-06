@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: dfd4dcd41b27bb44498bfa407660802f
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 625f186215c104763be7675aa2d941aa, type: 3}
+AssetOrigin:
+  serializedVersion: 1
+  productId: 20006135
+  packageName: "For Unity\u5730\u5F62 - HDRP\u6F14\u793A\u573A\u666F"
+  packageVersion: 1.0.3
+  assetPath: Assets/TerrainDemoScene_HDRP/ShaderGraphs/WaterDepthBased.shadergraph
+  uploadId: 0

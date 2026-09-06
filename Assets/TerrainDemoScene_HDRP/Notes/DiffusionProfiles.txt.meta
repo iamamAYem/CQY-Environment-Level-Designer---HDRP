@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c0f4e942fc6c3784d9561e447aba13bb
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 20006135
+  packageName: "For Unity\u5730\u5F62 - HDRP\u6F14\u793A\u573A\u666F"
+  packageVersion: 1.0.3
+  assetPath: Assets/TerrainDemoScene_HDRP/Notes/DiffusionProfiles.txt
+  uploadId: 0

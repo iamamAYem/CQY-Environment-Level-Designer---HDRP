@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 434e9f925d3966e40ab1e2eddeb31bf8
+VisualEffectImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 20006135
+  packageName: "For Unity\u5730\u5F62 - HDRP\u6F14\u793A\u573A\u666F"
+  packageVersion: 1.0.3
+  assetPath: Assets/TerrainDemoScene_HDRP/VFXGraphs/Dust.vfx
+  uploadId: 0

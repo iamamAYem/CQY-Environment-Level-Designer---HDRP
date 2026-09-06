@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: bafa13e7f7584804785c3f212ae0bf27
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 20006135
+  packageName: "For Unity\u5730\u5F62 - HDRP\u6F14\u793A\u573A\u666F"
+  packageVersion: 1.0.3
+  assetPath: Assets/TerrainDemoScene_HDRP/Prefabs/Skybox/SkyboxMountains.prefab
+  uploadId: 0

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 69e212d0fdcc2a848b85604d55ac1170
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 20006135
+  packageName: "For Unity\u5730\u5F62 - HDRP\u6F14\u793A\u573A\u666F"
+  packageVersion: 1.0.3
+  assetPath: Assets/TerrainDemoScene_HDRP/Settings/HDRP/HDRP Ultra Quality.asset
+  uploadId: 0
