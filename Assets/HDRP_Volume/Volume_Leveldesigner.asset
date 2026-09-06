@@ -250,7 +250,9 @@ MonoBehaviour:
   active: 1
   diffusionProfiles:
     m_OverrideState: 1
-    m_Value: []
+    m_Value:
+    - {fileID: 0}
+    - {fileID: 0}
 --- !u!114 &2641962274169164882
 MonoBehaviour:
   m_ObjectHideFlags: 3

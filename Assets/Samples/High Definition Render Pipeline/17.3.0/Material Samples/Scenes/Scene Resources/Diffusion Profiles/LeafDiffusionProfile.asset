@@ -12,6 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b2686e09ec7aef44bad2843e4416f057, type: 3}
   m_Name: LeafDiffusionProfile
   m_EditorClassIdentifier: 
+  m_Version: 2
   profile:
     scatteringDistance: {r: 0.89900154, g: 1, b: 0.228884, a: 1}
     scatteringDistanceMultiplier: 0.1
@@ -20,9 +21,9 @@ MonoBehaviour:
     smoothnessMultipliers: {x: 1, y: 1}
     lobeMix: 0.5
     diffuseShadingPower: 1
+    borderAttenuationColor: {r: 0, g: 0, b: 0, a: 0}
     transmissionMode: 1
-    thicknessRemap: {x: 0, y: 0.7054492}
+    thicknessRemap: {x: 0, y: 1.6923103}
     worldScale: 1
     ior: 1.4
     hash: 1076385536
-  m_Version: 2
