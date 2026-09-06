@@ -80,7 +80,7 @@ Material:
     - _DstBlend: 0
     - _DstBlend2: 0
     - _EmissionColor: 0
-    - _EmissionIntenisty: 1
+    - _EmissionIntenisty: 1.5
     - _EmissionThreshold: 1
     - _EnableBlendModePreserveSpecularLighting: 1
     - _EnableFogOnTransparent: 1
@@ -127,7 +127,7 @@ Material:
     m_Colors:
     - _DoubleSidedConstants: {r: 1, g: 1, b: -1, a: 0}
     - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
-    - _EmissiveTint: {r: 16, g: 16, b: 16, a: 1}
+    - _EmissiveTint: {r: 15.999998, g: 0, b: 0, a: 1}
     - _Offset: {r: 0, g: 0, b: 0, a: 0}
     - _Tiling: {r: 1, g: 1, b: 0, a: 0}
     - _Tint: {r: 1, g: 1, b: 1, a: 1}
