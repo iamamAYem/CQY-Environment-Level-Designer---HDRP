@@ -88,7 +88,7 @@ Material:
     - _MaterialID: 1
     - _MaterialTypeMask: 2
     - _Metallic: 1
-    - _Normal_Strength: 1
+    - _Normal_Strength: 0.3
     - _OpaqueCullMode: 2
     - _PerPixelSorting: 0
     - _RayTracing: 0
