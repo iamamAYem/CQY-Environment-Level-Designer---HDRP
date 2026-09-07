@@ -3,3 +3,4 @@
 *.exr filter=lfs diff=lfs merge=lfs -text
 *.tif filter=lfs diff=lfs merge=lfs -text
 Assets/Assets/Foliage/Trees/EnglishOak/OakTree/Oak_English_A.st filter=lfs diff=lfs merge=lfs -text
+Assets/Assets/Foliage/Trees/Oak_Billboard/Oak_English_A.st filter=lfs diff=lfs merge=lfs -text

@@ -289,10 +289,10 @@ MonoBehaviour:
     m_Value: {x: 0, y: 0}
   bottomAltitude:
     m_OverrideState: 1
-    m_Value: 2000
+    m_Value: 800
   altitudeRange:
     m_OverrideState: 1
-    m_Value: 3000
+    m_Value: 1800
   fadeInMode:
     m_OverrideState: 1
     m_Value: 0
@@ -1230,7 +1230,7 @@ MonoBehaviour:
     m_Value: 400
   meanFreePath:
     m_OverrideState: 1
-    m_Value: 1000
+    m_Value: 600
   enableVolumetricFog:
     m_OverrideState: 1
     m_Value: 1
