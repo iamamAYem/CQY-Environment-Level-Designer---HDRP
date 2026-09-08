@@ -120,3 +120,4 @@ Material:
     - _Warp_Direction: {r: 0, g: -1, b: 0, a: 0}
     - _Wind_Direction: {r: 1, g: 0, b: 0, a: 0}
   m_BuildTextureStacks: []
+  m_AllowLocking: 1

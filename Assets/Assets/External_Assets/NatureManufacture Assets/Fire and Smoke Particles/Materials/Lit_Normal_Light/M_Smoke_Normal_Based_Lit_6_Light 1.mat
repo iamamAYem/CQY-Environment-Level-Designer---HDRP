@@ -7,11 +7,12 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: M_Smoke_Normal_Based_Lit_5_Light
+  m_Name: M_Smoke_Normal_Based_Lit_6_Light 1
   m_Shader: {fileID: 4800000, guid: 6e67d1ba3bab87e4a9edf6512664fd62, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords:
+  - EMISSION_PROCEDURAL_MASK_ON
   - USE_TRANSPARENCY_INTERSECTION_ON
   - USE_WIND_ON
   - _ALPHATEST_ON
@@ -63,11 +64,11 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Color_Mask_R_Emission_B_Transparency_A:
-        m_Texture: {fileID: 2800000, guid: 3e88f83cdafb0b440b9de793030654b8, type: 3}
+        m_Texture: {fileID: 2800000, guid: 5872ad29385b8ba45a2a444ec0968c71, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Color_Mask__R__Emission__B__Transparency__A_:
-        m_Texture: {fileID: 2800000, guid: 3e88f83cdafb0b440b9de793030654b8, type: 3}
+        m_Texture: {fileID: 2800000, guid: 5872ad29385b8ba45a2a444ec0968c71, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Color_Texture__RGB__Transparency__A_:
@@ -75,7 +76,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Color_mask__R__Emission__B__Transparency__A_:
-        m_Texture: {fileID: 2800000, guid: 3e88f83cdafb0b440b9de793030654b8, type: 3}
+        m_Texture: {fileID: 2800000, guid: 5872ad29385b8ba45a2a444ec0968c71, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Color_mask__R__Emission__G__Transparency__A_:
@@ -123,11 +124,11 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Normal_Map:
-        m_Texture: {fileID: 2800000, guid: 82211facbfbb4fa43b1582fb9cefd8db, type: 3}
+        m_Texture: {fileID: 2800000, guid: f6b2036f3ab7d1349b97c514f6c2ed13, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Normalmap:
-        m_Texture: {fileID: 2800000, guid: 82211facbfbb4fa43b1582fb9cefd8db, type: 3}
+        m_Texture: {fileID: 2800000, guid: f6b2036f3ab7d1349b97c514f6c2ed13, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _ParticleMask:
@@ -185,7 +186,7 @@ Material:
     - BOOLEAN_9554BA6B911E463888FC230BCA8CECEE: 1
     - Boolean_40c191edef53412c940356f94619f8e7: 0
     - Boolean_f345a42972cb44d3b3a33e57a8924ac4: 1
-    - EMISSION_PROCEDURAL_MASK: 0
+    - EMISSION_PROCEDURAL_MASK: 1
     - USE_TRANSPARENCY_INTERSECTION: 1
     - USE_WIND: 1
     - Vector1_06c09b009935483d81c4a939c890950f: 1
@@ -373,7 +374,7 @@ Material:
     - _Diffusion_Profile_Asset: {r: -8.489958e-35, g: 6.00157e-17, b: -1.2974213e-37, a: 5.5824003e+25}
     - _DoubleSidedConstants: {r: 1, g: 1, b: -1, a: 0}
     - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
-    - _Emission_Color: {r: 135.58704, g: 0, b: 0, a: 0}
+    - _Emission_Color: {r: 0, g: 0, b: 0, a: 0}
     - _Emission_Gradient_Color: {r: 25.992073, g: 3.5675397, b: 0, a: 0}
     - _EmissiveColor: {r: 0, g: 0, b: 0, a: 1}
     - _EmissiveColorLDR: {r: 0, g: 0, b: 0, a: 1}
@@ -382,7 +383,7 @@ Material:
     - _Light_Color: {r: 1, g: 0.99528295, b: 0.94811314, a: 1}
     - _Light_Direction: {r: 0, g: 0, b: 0, a: 0}
     - _ParticleColor: {r: 1, g: 1, b: 1, a: 1}
-    - _Particle_Color_RGB_Alpha_A: {r: 0.7169812, g: 0.7169812, b: 0.7169812, a: 1}
+    - _Particle_Color_RGB_Alpha_A: {r: 1, g: 1, b: 1, a: 1}
     - _Particle_Color__RGB__Alpha__A_: {r: 1, g: 1, b: 1, a: 1}
     - _Shadow_Color: {r: 0.44895872, g: 0.48760054, b: 0.5566038, a: 1}
     - _SpecularColor: {r: 1, g: 1, b: 1, a: 1}

@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Ground Smoke Material
+  m_Name: Ground Smoke Material Road
   m_Shader: {fileID: -6465566751694194690, guid: 9ad6e7b561ed43442a048712b9e953fc, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -82,7 +82,7 @@ Material:
     - _FogVolumeColorBlendOp: 0
     - _FogVolumeDstAlphaBlend: 1
     - _FogVolumeDstColorBlend: 1
-    - _FogVolumeFogDistanceProperty: 2
+    - _FogVolumeFogDistanceProperty: 25
     - _FogVolumeSrcAlphaBlend: 1
     - _FogVolumeSrcColorBlend: 1
     - _Height_Tiling: 1.84
@@ -96,7 +96,7 @@ Material:
     - _SrcBlend: 1
     - _SurfaceType: 0
     - _TIling: 1
-    - _Tiling: 0.5
+    - _Tiling: 0.075
     - _TransparentBackfaceEnable: 0
     - _TransparentCullMode: 2
     - _TransparentDepthPostpassEnable: 0
@@ -106,13 +106,13 @@ Material:
     - _TransparentZWrite: 0
     - _Up_Stretch: 4
     - _UseShadowThreshold: 0
-    - _Wind_Speed: 0.25
+    - _Wind_Speed: 0.075
     - _ZTestDepthEqualForOpaque: 4
     - _ZTestTransparent: 4
     - _ZWrite: 1
     - _alpha: 1
     m_Colors:
-    - _Bottom_Color: {r: 1, g: 0.7115072, b: 0.572327, a: 1}
+    - _Bottom_Color: {r: 0.87735844, g: 0.9002238, b: 1, a: 1}
     - _Color: {r: 1, g: 0.92878336, b: 0.83647794, a: 0}
     - _Color2: {r: 0.7169812, g: 0.55657834, b: 0.34270793, a: 1}
     - _DetailDirection: {r: 0, g: 0, b: 1, a: 0}
@@ -121,9 +121,9 @@ Material:
     - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
     - _FogVolumeSingleScatteringAlbedo: {r: 1, g: 1, b: 1, a: 1}
     - _Offset: {r: 0, g: 0, b: 0, a: 0}
-    - _Top_Color: {r: 1, g: 0.94102645, b: 0.83647794, a: 1}
+    - _Top_Color: {r: 0.9025157, g: 0.972921, b: 1, a: 1}
     - _Vector3: {r: 1, g: 0, b: 0, a: 0}
-    - _Wind_Direction: {r: 1, g: 0, b: 0, a: 0}
+    - _Wind_Direction: {r: -1, g: 2, b: 0, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
 --- !u!114 &2064897693191722383

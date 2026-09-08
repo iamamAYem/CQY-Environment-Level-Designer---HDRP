@@ -64,7 +64,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _AO: 0
+    - _AO: 1
     - _AddPrecomputedVelocity: 0
     - _AlphaCutoffEnable: 0
     - _AlphaDstBlend: 0
@@ -87,8 +87,8 @@ Material:
     - _ExcludeFromTUAndAA: 0
     - _MaterialID: 1
     - _MaterialTypeMask: 2
-    - _Metallic: 0
-    - _Normal_Strength: 1
+    - _Metallic: 0.65
+    - _Normal_Strength: 0.15
     - _OpaqueCullMode: 2
     - _PerPixelSorting: 0
     - _RayTracing: 0
@@ -97,7 +97,8 @@ Material:
     - _RefractionModel: 0
     - _RenderQueueType: 1
     - _RequireSplitLighting: 0
-    - _Smoothness: 0.592
+    - _Smoothness: 1
+    - _Smoothness_2ed: 0.88
     - _SrcBlend: 1
     - _StencilRef: 0
     - _StencilRefDepth: 8
