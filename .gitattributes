@@ -4,3 +4,17 @@
 *.tif filter=lfs diff=lfs merge=lfs -text
 Assets/Assets/Foliage/Trees/EnglishOak/OakTree/Oak_English_A.st filter=lfs diff=lfs merge=lfs -text
 Assets/Assets/Foliage/Trees/Oak_Billboard/Oak_English_A.st filter=lfs diff=lfs merge=lfs -text
+
+# --- Binary types with no pre-existing plain-blob history: safe to track globally ---
+*.cubemap filter=lfs diff=lfs merge=lfs -text
+*.unitypackage filter=lfs diff=lfs merge=lfs -text
+*.wav filter=lfs diff=lfs merge=lfs -text
+
+# --- Scoped to External_Assets only. These extensions already exist elsewhere in the
+# --- repo as plain git blobs; a global rule would mark those as modified and force an
+# --- unintended mass conversion. Keep scoped unless doing a deliberate lfs migrate.
+Assets/Assets/External_Assets/**/*.png filter=lfs diff=lfs merge=lfs -text
+Assets/Assets/External_Assets/**/*.psd filter=lfs diff=lfs merge=lfs -text
+Assets/Assets/External_Assets/**/*.fbx filter=lfs diff=lfs merge=lfs -text
+Assets/Assets/External_Assets/**/*.jpg filter=lfs diff=lfs merge=lfs -text
+Assets/Assets/External_Assets/**/*.pdf filter=lfs diff=lfs merge=lfs -text
