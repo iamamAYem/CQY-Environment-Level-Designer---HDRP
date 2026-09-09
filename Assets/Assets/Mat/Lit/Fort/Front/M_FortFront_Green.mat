@@ -31,7 +31,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _EmissiveTex:
-        m_Texture: {fileID: 2800000, guid: 45effb7aae33b324a83b981eb6b2981b, type: 3}
+        m_Texture: {fileID: 2800000, guid: 407815f73bec78f45aba0c215a2b35f3, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
@@ -80,7 +80,7 @@ Material:
     - _DstBlend: 0
     - _DstBlend2: 0
     - _EmissionColor: 0
-    - _EmissionIntenisty: 1.5
+    - _EmissionIntenisty: 10
     - _EmissionThreshold: 1
     - _EnableBlendModePreserveSpecularLighting: 1
     - _EnableFogOnTransparent: 1
@@ -98,6 +98,7 @@ Material:
     - _RenderQueueType: 1
     - _RequireSplitLighting: 0
     - _Smoothness: 1
+    - _Smoothness_2ed: 0
     - _SrcBlend: 1
     - _StencilRef: 0
     - _StencilRefDepth: 8
